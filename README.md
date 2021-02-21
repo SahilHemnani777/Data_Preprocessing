@@ -10,4 +10,4 @@ A complete tool kit for data pre-processing in machine learning
 7. Feature scalling (optional)
 
 ## Dataset
-![DataSet]("2021-02-21.png")
+![DataSet]("https://github.com/SahilHemnani777/Data_Preprocessing/blob/main/2021-02-21.png")
